@@ -54,7 +54,10 @@ php artisan migrate
 ```bash
 php artisan make:filament-user
 ```
-
+#### 8. Administration Panel
+```
+/admin
+```
 ## Demo
 > Coming soon...
 
